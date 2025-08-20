@@ -1,16 +1,20 @@
-## Hi there 👋
+# [José Valdir] <img src="https://mega.ibxk.com.br/2016/11/11/11173918895535.jpg" width="100px">
 
-<!--
-**josevaldr/josevaldr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou <strong>José Valdir</strong>, <strong>Gastrônomo em transição de carreira, estudante de ads</strong> 👨🏻‍💻 
 
-Here are some ideas to get you started:
+- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
+- 💬 Pergunte-me sobre: <strong>Gastronomia, gatos e animes, teremos muito assunto a falar a respeito</strong>
+- 📣 Nós podemos falar em: <strong>Pt</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <a href="#" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+
+  <a href="#" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+
+</div>

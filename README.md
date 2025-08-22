@@ -14,7 +14,7 @@
 - 🔧 &nbsp; <strong>Suas IDES</strong>
 
 
-<div align="center">
+<div align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
@@ -32,7 +32,3 @@
 <div>
  
 
-</br>
-<div align="center">
-<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Duduxs"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Duduxs&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
-</a>

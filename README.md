@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo José Valdir, tenho 27 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas pelo SENAC. Sou apaixonado por tecnologia, tenho foco em desenvolvimento web full stack e tenho preferência por backend, utilizando linguagens como Java, Python e JavaScript. 
+Me chamo José Valdir, tenho 27 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas pelo SENAC. Sou apaixonado por tecnologia, tenho foco em desenvolvimento web full stack e tenho preferência por backend, utilizando linguagens Python, JavaScript e node. 
 
 
 ---
